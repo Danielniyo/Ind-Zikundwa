@@ -1,0 +1,14 @@
+\c 104 
+\pc \bd 10\bd*\bd 4\bd*
+
+\s Bientôt le Seigneur va venir
+\zon1 1
+\zoli1 \bd Bientôt le Seigneur va \bd*\bd venir\bd*\bd !\bd*\bd  Es-tu \bd*\bd prêt\bd*\bd ?\bd*\bd  \bd*\bd Bientôt le\bd*\bd  Ciel\bd*\bd , Il veut \bd*\bd t’ouvrir\bd*\bd !\bd*\bd  Es-tu \bd*\bd prêt\bd*\bd ?\bd*
+\pc \bdit {\bdit*\bdit Es-tu \bdit*\bdit prêt\bdit*\bdit ?\bdit*\bdit } \bdit*\bdit x2\bdit*\bdit  Es-tu prêt pour l’éternité\bdit*\bdit ?\bdit*\bdit  \bdit*\bdit {\bdit*\bdit Es-tu \bdit*\bdit prêt\bdit*\bdit ?\bdit*\bdit } \bdit*\bdit x2\bdit*\bdit  Le Sauveur t’a-t-il racheté\bdit*\bdit ?\bdit*
+\zoli1 \bd Bientôt l’appel \bd*\bd retentira\bd*\bd !\bd*\bd  Es-tu \bd*\bd prêt\bd*\bd ?\bd*\bd  \bd*\bd Bientôt la mort te \bd*\bd surprendra\bd*\bd !\bd*\bd  Es-tu \bd*\bd prêt\bd*\bd ?\bd*
+\pc \bdit {Es-tu \bdit*\bdit prêt\bdit*\bdit ?\bdit*\bdit } \bdit*\bdit x2\bdit*\bdit  Es-tu prêt pour l’éternité\bdit*\bdit ?\bdit*\bdit  {Es-tu \bdit*\bdit prêt\bdit*\bdit ?\bdit*\bdit } \bdit*\bdit x2\bdit*\bdit  Le Sauveur t’a-t-il racheté\bdit*\bdit ?\bdit*
+\zoli1 \bd Bientôt Jésus va te \bd*\bd juger\bd*\bd !\bd*\bd  Es-tu \bd*\bd prêt\bd*\bd ?\bd*\bd  \bd*\bd Oh\bd*\bd !\bd*\bd  devra-t-il te condamner\bd*\bd ?\bd*\bd  Es-tu \bd*\bd prêt\bd*\bd ?\bd*
+\pc \bdit {Es-tu \bdit*\bdit prêt\bdit*\bdit ?\bdit*\bdit } \bdit*\bdit x2\bdit*\bdit  Es-tu prêt pour l’éternité\bdit*\bdit ?\bdit*\bdit  {Es-tu \bdit*\bdit prêt\bdit*\bdit ?\bdit*\bdit } \bdit*\bdit x2\bdit*\bdit  Le Sauveur t’a-t-il racheté\bdit*\bdit ?\bdit*
+\zoli1 \bd Bientôt dans le\bd*\bd  Ciel\bd*\bd  \bd*\bd enlevés\bd*\bd !\bd*\bd  Es-tu \bd*\bd prêt\bd*\bd ?\bd*\bd  \bd*\bd Tous les élus seront \bd*\bd sauvés\bd*\bd !\bd*\bd  Es-tu \bd*\bd prêt\bd*\bd ?\bd*
+\pc \bdit {Es-tu \bdit*\bdit prêt\bdit*\bdit ?\bdit*\bdit } \bdit*\bdit x2\bdit*\bdit  Es-tu prêt pour l’éternité\bdit*\bdit ?\bdit*\bdit  {Es-tu \bdit*\bdit prêt\bdit*\bdit ?\bdit*\bdit } \bdit*\bdit x2\bdit*\bdit  Le Sauveur t’a-t-il racheté\bdit*\bdit ?\bdit*
+\pc \bd ************\bd*

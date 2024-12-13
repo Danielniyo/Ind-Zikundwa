@@ -1,0 +1,161 @@
+1	Mwokozi Umeokoa
+2	Twamsifu Mungu
+3	Hata ndimi elfu
+4	Jina la Yesu, salamu
+5	Jina lake Yesu tamu
+6	Bwana, Mwana, Roho
+7	Ni tabibu wa karibu
+8	Taji mvikeni
+9	Yesu kwetu ni Rafiki
+10	Usinipite Mwokozi
+11	Nina haja nawe
+12	Ewe Roho wa Mbinguni
+13	Tafuta daima utakatifu
+14	Yesu kwa imani
+15	Cha kutumaini sina
+16	Kumtegemea Mwokozi
+17	Namwandama Bwana
+18	Akifa Yesu Nikafa naye
+19	Ndiyo Dhamana Yesu wangu
+20	Ninaye rafiki naye
+21	Roho yangu hima
+22	Kale nilitembea
+23	Ni salama rohoni mwangu
+24	Mwokozi moyoni mwangu
+25	Nimekombolewa na Yesu
+26	Yesu unipendaye
+27	Mungu ni Pendo
+28	Anipenda ni kweli
+29	Baba Yetu aliye Mbinguni
+30	Nilikuwa Kondoo aliyepotea
+31	Msingi imara
+32	Yesu awakubali wakosa
+33	Dhambi ikikulemea
+34	Njoni! Wenye dhambi
+35	Twende kwake
+36	Anisikiaye aliye yote
+37	Waitwa, mwovu, na Bwana
+38	Twende kwa Yesu
+39	Mwenye dhambi huna raha
+40	Nasikia Kuitwa
+41	Yesu aliniita, “Njoo”
+42	Kivulini mwa Yesu
+43	Yesu akwita
+44	Kukawa na giza dunia yote
+45	Mtazame Huyo aliyeangikwa juu
+46	Twae wangu uzima
+47	Ni wako wewe
+48	Naweka dhambi zangu
+49	Nitwae hivi nilivyo
+50	Yesu nakupenda, U mali yangu
+51	Mungu twatoa shukrani
+52	Yote namtolea Yesu
+53	Wewe umechoka sana
+54	Yesu nataka kutakaswa sana
+55	Nipe moyo wenye sifa
+56	Ni sikukuu siku ile
+57	Naendea Msalaba
+58	Mwamba wenye imara
+59	Peleleza ndani yangu
+60	Waponyeni watu
+61	Tumesikia mbiu
+62	Bwana wa mabwana
+63	Ndugu wa kirohoni
+64	Ujaribiwapo, sifanye dhambi
+65	Safari
+66	Po pote mashamba yajaa
+67	Bwana uliyewaita
+68	Mungu Msaada wetu
+69	Twendeni Askari
+70	Yesu Atuchunga
+71	Mteteeni Yesu
+72	Twendeni! Haraka!
+73	Yesu zamani Bethilehemu
+74	Wachunga walipolinda
+75	Waimba, sikizeni
+76	Njoni, enyi wa imani
+77	Msalabani pa Mwokozi
+78	Sioshwi dhambi zangu
+79	Msalaba wa aibu
+80	Wamwendea Yesu kwa kusafiwa
+81	Chini ya Msalaba
+82	Sioni haya kwa Bwana
+83	Kwa wingi wa nyama
+84	Niwonapo mti bora
+85	Ni mtu wa simanzi
+86	Damu imebubujika
+87	Deni ya dhambi ilimalizika
+88	Ndiyo damu ya Baraka
+89	Kwa Kalvari
+90	Aliteswa, aliteswa
+91	Mapenzi yako yafanyike, Bwana
+92	Nataka nimjue Yesu
+93	Bwana Amefufuka
+94	Siku ya Mbingu kujawa na sifa
+95	Hivi vita vimekoma
+96	Mle kaburini, Yesu Mwokozi
+97	Tazameni huyo ndiye
+98	Huyo ndiye anashuka
+99	Maelfu na maelfu
+100	Safari Tumrudie Bwana
+101	Twonane milele
+102	Kazi yangu ikiisha
+103	Kaa nami
+104	Twasoma ni njema sana
+105	Kuwatafuta
+106	Mungu awe nanyi daima
+107	Ewe Baba wa Mbinguni
+108	Twenenda sayuni
+109	Nitaimba ya Yesu
+110	Mapya ni mapenzi hayo
+111	Neno lake Bwana
+112	Nilikupa wewe Maisha yangu
+113	Ni Mfalme wa Mapenzi
+114	Bwana Mungu, nashangaa kabisa
+115	Kilima kando ya Mji
+116	Bwana, U sehemu yangu
+117	Tufani inapovuma
+118	Ni Ujumbe wa Bwana
+119	Si damu ya nyama
+120	Enyi wanadamu
+121	Liko lango moja wazi
+122	Bwana Yesu
+123	Nimeketi mini nili kipofu
+124	Mungu ulisema
+125	Ati twonane Mtoni?
+126	Ni Mji mzuri
+127	Bwana Yesu Atakuja
+128	Mmoja Apita wote
+129	Karibu na Wewe
+130	Niongoze, Bwana Mungu
+131	Piga sana vita vyema
+132	Sauti sikilizeni
+133	Ni wako Mungu
+134	Juu yake langu shaka
+135	Mapenzi ya milele
+136	Msifuni, Yesu ndiye Mkombozi
+137	Yesu Mponya
+138	Tukutendereza Yesu (Luganda)
+139	Nuru ya rohoni
+140	Mahali ni pazuri
+141	Pana jito, lina Maji mazuri
+142	Babangu kule Mbinguni
+143	Nchi nzuri yametameta
+144	Mbele ninaendelea
+145	Ndoa yetu nzima simika
+146	Neno la Mungu takata
+147	Tegemea mpaka kufa
+148	Ondokeni! tunaitwa
+149	Haya, umati wa Yesu
+150	Haya ee moyo wangu
+151	Usiku mtakatifu!
+152	Uliyesulubishwa
+153	Nimepita ulimwengu
+154	Bariki yote yawe mema
+155	Hapana rafiki kama Yesu
+156	Bwana Yesu yuko wapi
+157	Kijito cha utakaso
+158	Aniongoza popote
+159	Ushirika mkuu, furaha yangu
+160	Jioni moyo wangu wakutafuta
+161	Usiku uingiapo

@@ -1,0 +1,12 @@
+\c 220 
+\pc \bd 22\bd*\bd 0\bd*
+
+\s NOUS MARCHONS DANS LA LUMIERE
+\zon1 1
+\zoli1 \bd {\bd*\bd Nous\bd*\bd  \bd*\bd marchons\bd*\bd  \bd*\bd dans\bd*\bd  \bd*\bd la\bd*\bd  \bd*\bd Lumière\bd*\bd ,\bd*\bd }\bd*\bd  \bd*\bd x3\bd*\bd  \bd*\bd Dans\bd*\bd  \bd*\bd la\bd*\bd  \bd*\bd Lumière \bd*\bd de\bd*\bd  \bd*\bd ce\bd*\bd  \bd*\bd jour.\bd*\bd  \bd*\bd (\bd*\bd x\bd*\bd 2)\bd*
+\pc \bdit {Marchons, marchons dans la Lumière,} x3 Dans la Lumière de ce jour.\bdit*
+\zoli1 \bd Nous\bd*\bd  \bd*\bd prions\bd*\bd  dans la Lumière,} x3 Dans la Lumière de ce jour. (\bd*\bd x\bd*\bd 2)\bd*
+\pc \bdit {Marchons, marchons dans la Lumière,} x3 Dans la Lumière de ce jour.\bdit*
+\zoli1 \bd Nous\bd*\bd  \bd*\bd chantons\bd*\bd  dans la Lumière,} x3 Dans la Lumière de ce jour. (\bd*\bd x\bd*\bd 2)\bd*
+\pc \bdit {Marchons, marchons dans la Lumière,} x3 Dans la Lumière de ce jour.\bdit*
+\pc \bd ************\bd*

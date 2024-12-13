@@ -1,0 +1,110 @@
+100	Abahoze mu mwijima babony’ Umucyo w’ukuri
+106	Abantu bose batuye mw’isi
+98	Abazaba bakijijwe bazateranira hamwe ku meza mw’Ijuru hamwe
+90	Ai Mana y’Ukuri komeza ku nyobora
+83	Amaraso yawe Mukiza
+15	Amasezerano yose ukw’Iman’ Iyatanga
+67	Ba bakobwa cumi
+60	Birakomeye gusobanukirwa Ubuntu
+59	Dor’Urukundo rw’Imana
+101	Habayeh’umusozi
+54	Harih’umuns’ Izuba rizarasa
+74	Harihw’Igihugu Cyiza
+88	Hazabahw’igihe cy’imperuka
+45	Iby’Iman’Ikora biradutangaza
+89	Icyubahiro n’icyawe
+97	Ifeza n’izahabu nta bwo zibasha Gukiz’umutim’ubabajwe n’ibyaha
+69	Igihugu cyiza kiradutegereje mw’Ijuru
+72	Iman’iri hamwe natwe
+35	Imana Ishimwe cyane
+14	Isezerano ry’Umwami Mana
+40	Iyo ndebeshej’ Ukwizera
+44	Izina rya Yesu Kristo
+11	Ku Musarab’Umukiza wanjye
+79	Kubw’Umwami Yesu
+61	Kubw’Urukundo rwinshi
+39	Kur’uyu munsi turashobora Kubon’ Ibimenyetso by’Imana
+20	Mana Nyohererez’ Umuriro wawe
+19	Mana turategereje kwakir’uwo Mwuka wawe
+84	Mbes’aho wamenye rya Zina ryiza
+42	Mfit’ Amahor’i Gologota
+9	Mfit’Umukiza Mwiza cyane
+52	Mu bimenyetso byose tubona Yuk’Umukiza wac’aza vuba
+62	Mu gihe cyo Gusenga, Amasengesho yacu
+96	Mukiza wanjye wagiye mw’Ijuru
+77	Murebe Urukundo rukomeye cyane
+71	Muri Betesida Marayik’ agezemo
+31	Musamariyakazi, Yesu yaramubwiye
+92	Mw’Ijuru ni heza cyane
+63	Mwami Yesu Uranyobore
+13	Mwana w’Imana Yesu
+47	N’igihe git’intambar’ igashira
+27	N’inkuru nziza kur’uyu munsi
+110	N’utagir’umwete mu Nzira y’Imana
+66	Nageze ku Mwami Yesu
+6	Nagir’indim’igihumbi
+48	Nahaw’Ubugingo buhoraho rwose
+91	Namaze kumeny’ibyiza
+2	Nari naramenyerey’ibyaha
+3	Nari narazimiriye kure
+41	Ndahiriwe kuk’Umucunguzi wanjye
+95	Ndashaka kuririmbira Yesu
+26	Ndashakashak’ umwana wa njye
+94	Nezerwa mutima wanjye
+43	Ngwin’unyigishe ya Nkuru nziza
+105	Ni igitangaza pe
+4	Niboney’Urukundo rw’Umukiza
+55	Nifuza cyane kuzagera muri wa Murwa
+80	Nifuza kuzagera muri wa Murwa
+7	Nimuze mwese turirimbe
+21	Nimuze tureb’imbere
+81	Nkunda kumv’amakuru y’Umurwa
+38	Nowa ku ki wubak’iyo nkuge?
+99	Nshatse kugukurikira buri munsi
+73	Nshut’iby’ ushidikanyamo
+68	Nta bwo nkwiye kujya niganyira
+37	Nubw’ugeze mu magorwa
+34	Nyoborwa mu Nzira yose
+109	Pasaka yacu niy’itwibutsa Amaraso y’Umwana w’Imana
+70	Reka gutiny’ ibizakubaho
+50	Ririmb’inkuru nziza
+5	Sinzibagirw’igihe nakizwaga
+32	Sioni sanganir’Umukwe
+58	Turi mu gihe cyiza cy’Umunsi w’Agakiza
+82	Tuzajyanwa kuri wa Munsi
+49	Tuzanezerwa cyane mw’Ijuru
+28	Twarabatuwe rwose rwose
+107	Twemezwa n’iki ko tuzagera mw’Ijuru?
+56	Twese uko tur’aha turanezerewe
+30	Ubugingo bwacu ni bugufi cyane
+36	Ubugingo dufite mw’isi
+86	Uduh’Umwuka wawe
+78	Uhamagarwa na Yesu kenshi
+102	Ump’akanya Yesu nze nkwegere
+8	Umucyo wabonekeye bose
+87	Umugisha w’Imana
+57	Umukiza wac’Ashobora kutunezeza mw’isi
+53	Umuns’umwe tuzabona Ubwiza
+23	Umurima w’Iman’ureze
+17	Umuriro wawe Mukiza
+75	Umv’iri Jambo n’iryo Kwizerwa
+1	Urukundo ruhebuje
+85	Urukundo rw’Umukiza
+18	Utwohererez’Umwuka Wera
+64	Uyu munsi mwiza w’urwibutso
+12	Waratubambiwe Mukiza
+51	Yemwe bantu mwese
+76	Yemwe mwa Bushyo bw’Imana
+24	Yes’Aduhamagaye mu Rukundo
+46	Yes’ubu tukuragij’uyu mwana
+93	Yesu Mukiza ni We Wanshunguye kera
+33	Yesu Mukiza Yasezeranye Yuk’ umuns’ umw’ Azaza kudutwara
+22	Yesu Mwami ni w’Utubaz’ati
+65	Yesu n’ibyishimo byanjye
+104	Yesu ni wowe Mucyo
+29	Yesu Niw’ Ufit’Izina ryiza
+10	Yesu wonger’Unyigishe
+103	Yesu Yazutse n’ukuri
+25	Yew’ubabazwa n’ibyaha
+108	Yew’usonzey’ Agakiza
+16	Za Mbaraga zamanukiye Abigishwa ba Yesu

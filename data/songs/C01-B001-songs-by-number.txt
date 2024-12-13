@@ -1,0 +1,354 @@
+1	Yera, Yera, Yera
+2	Dushim’ Iman’ Ihoraho
+3	Yemw’ abari mw isi mwese
+4	Dushime can’ Izina ryawe Yesu
+5	Twese dushim’ Umwam’ Imana
+6	Nogir’ indim’ igihumbi
+7	Umv’Abera bo mw’Ijuru
+8	Kw’Izina rya Yesu
+9	Yes’Ashimwe
+10	Nshim’Umwami
+11	Uwer’Ashimwe mw’Ijuru
+12	Tunezerewe k’Umukiza yaje
+13	Umwe yambitsw’ igitsibo
+14	Mana turaguhimbaza
+15	Dushimish’ Imana
+16	Abera banezererwa Izina rya Yesu
+17	Mutima wanje ririmba
+18	Umwungere wacu ni We Yesu
+19	Mana Muremy’ Ijuru riraguhimbaza
+20	Mbony’ Umukunzi Mwiza
+21	Ni muze turirimbane n’Abera bo mw’ Ijuru
+22	Ngwino Mana nkuru
+23	Yesu n’Umwami w’amoko yose
+24	Nshim’Imana mu mutima
+25	Emw’Imana yacu ni Nziza
+26	Mana Rurema ndagushima
+27	Mutabazi wacu Yesu
+28	Muganga Mwiza ni Kristo
+29	Uduhagarare hagati Mukiza
+30	Yesu Mukunzi wanje, Mpa kuguhungirako
+31	Murokoz’Uh’ imbabazi umutim’ ukugomba
+32	Mwam’ Utuvubir’ Imvura
+33	Ndagushimiye Mukiza Urukundo Wankunze
+34	Ndushirize kukwegera Yesu
+35	Nkuyoboke Mwami
+36	Ntundengane Mukiza We
+37	Ni twigumanire Mwami Mwiza cane
+38	Mukiza nsesa ng’Umenye
+39	Mukiza ndagomba Gukizwa rwose
+40	Nizigiy’Imana
+41	Nasezeranije guhora ngukurikira Yesu
+42	Mwami wanje, ngomba kuba uwakijijwe nawe
+43	Ngomba ko nob’ Umukristo mu mutima
+44	Yesu turakugomba
+45	Ndakugomba Mukiza We
+46	Undongore Mukiz’ Uhoraho
+47	Nzama nganyira Yes’ ibingoye
+48	Ni je gusa bikwiye ko nsengerwa
+49	Ugusenga kuramfash’ ibihe vyose
+50	Ntugasigeho Gusenga, Yesu ntari kure yawe
+51	Muze ku Mukiz’ Abakunda
+52	Uze kwa Yes’ubu
+53	Muze mwes’ aho Yes’ ari, Arabaruhura
+54	Yemwe mwes’ abananiwe, abaremerewe
+55	Yes’Araduhamagara kurek’ ivyaha vyose
+56	Yes’Arakurorereye, Aragukunda
+57	Yes’Araguhamagara: Ngwino mugorwa
+58	Renguk’ urahamagawe itaba munyavyaha
+59	Uraremerewe ku mutima? Har’ ivyaha wanyegejeho?
+60	Wa mutim’ urira, uze kwa Yesu
+61	Mpwem’ arakubgira, wumv’ ijwi ryiwe
+62	Ugomba wese n’aze kwa Yesu
+63	Yemwe banyavyaha mwe, mwumv’ Ijambo ry’ Ubuntu
+64	Ni wumvire rwa Rukundo rwa Yesu
+65	Namba wumv’ urambiwe n’ ivyaha, injiza Yesu mu mutima
+66	Mu Ngoro haracar’ icicaro, naw’ urahamagawe ng’ujeyo
+67	Uhagaze Mukiza, ku rugi rwugaye
+68	Mu bari mw’ isi nta wugororoka
+69	Nk’uko Mose yamanits’ inzoka ku giti
+70	Narumvise Yes’ Atubgira: Ni muze
+71	Umukiza Yes’ Aratabara ni We nyen’ Ikigongwe
+72	Umuco w’isi ni Yesu, Yaka nk’izuba
+73	Ntutiny’ ivyaha vyawe wakoze?
+74	Mfis’ Umukiz’ Amvugira mw’Ijuru
+75	Yesu n’Umukunzi wacu, Niw’ Atwikorerera
+76	Mbeg’ uraz’ ibir’ imbere yawe, ah’ uzohurira n’urupfu?
+77	Ntukine ku Bugingo, Urupfu rwokujana
+78	Kera har’ umubivyi yasohoy’ imbuto
+79	Uhor’undinganirije Amajamb’ atunganye
+80	Yemw’ abitang’ ubufuti, mugahush’ Umusaraba
+81	Ni muvuz’ impundu bamarayika, kuk’ umunyavyaha yihanye!
+82	Ewe Mukiza wanje, wakubisw’ inguma
+83	Ewe Krist’ Umutwaro wanje Warawiremetse
+84	N’iki conkiz’ ivyaha? N’Amaraso yawe Yesu
+85	Amaraso y’Umukiza yaviriy’ abantu
+86	Amaras’ Umucunguzi Yakuviriye
+87	Mbega ntugomba guturw’ ivyaha? Har’ Inkomezi mu Maraso
+88	Numv’ Umukiz’ Ambgira ko mbuz’ inkomezi
+89	Yarandondey’ Asanga nanijwe n’ivyaha
+90	Nari kure y’Imana mu buja
+91	Gitandara c’Imana, reka nguhungireko
+92	Ndagushimiye Umwana wankunze
+93	Yesu, ndacibuk’ umusi mwiza nakwemereyeko
+94	Ubugingo bganje bgahinduts’ ukundi Yes’aho Yangereramwo
+95	Ivyaha vyanje vyose Yarabishizweko, nah’ Atigez’ Akora icaha na kimwe
+96	Imana yacu Yatunze vyose
+97	Nezerewe ko menye rwose Yesu kw ar’ Umukiza wanje
+98	Ikinnezereza cane umve narakibonye
+99	Yesu Yabonye ngowe na vyinshi
+100	Nzoririmb’ igitangaza Yes’Umwami Yakoze
+101	Nkunda kwama natura yuko nacunguwe n’Amaraso
+102	Ivy’isi vyamvuye mu mutima, kubg’ Amaraso
+103	Kera nari mw’ ishayo y’ivyaha
+104	Imbabazi z’Umukiza zamuzanye kuncungura
+105	Ubuntu bg’Imana butangaje ni bgo bgankuyeko imigozi
+106	Sinterw’ isoni na Yesu, n’iz’ ishaka ryiwe
+107	Mpore nizigira gusa Amaraso y’Umukiza
+108	Je nd’Umukristo, nzokwama ndi we
+109	Nkund’ Ubucuti buva mw’ Ijuru
+110	Igituma nkunda Yesu ndakikubgira none
+111	Har’Izina rinnezereza, rinteza kuriririmba
+112	Ndazi ko Yes’ Ankunda
+113	Nkunda kwizigira Yesu no kumwumvira rwose
+114	Yesu n’Umukiza wanje n’Umwami
+115	Ndons’ Incuti nziza cane, Yarankunze ntayizi
+116	Numva Yes’Ampamagara
+117	Numvis’ Ijwi ry’ Umukiza
+118	Kera naremetse Yes’ ibingoye
+119	Yes’ andutir’ isi yose, Yampay’ Ubugingo
+120	Mw’Ijur’ imbere y’ Imana, mfis’ Umunt’ Amvugira
+121	Kera mu bugingo bganje narahindagurika
+122	Uyu musi narons’ Indirimbo nziza
+123	Yesu, ni Wewe naronkeyemwo Amahoro mu mutima
+124	Ubu n’Amahoro mu mutima wanje, kuko Yesu Yankijije
+125	Kubg’ Urukundo rw’ Imana n’ubuhoro
+126	Yesu, tuguhungireko, Udutabare ntidupfe
+127	Mukiza, numvis’ ijwi ryawe ry’imbabazi
+128	Nta co mfise nireguza atar’uko wampfiriye
+129	Ndeger’Umusaraba nnaniwe nkennye mpumye
+130	Nahabiye kure yawe, ndahabuts’ubu
+131	Yesu, ndagomba guhabuka
+132	Nsiz’ubugurano bg’umwiza, ndaje Yesu
+133	Ndikorey’ umusaraba, ngukurikire Yesu
+134	Nkwiye Yesu, ndiko ndamusaba; Antabare
+135	Mbega ko Yesu Yatanz’ Amaraso yiwe ku Musaraba
+136	Ubu bugingo bganje bgose, Ehe ndabuguhaye Mukiza
+137	Man’ utwumvire, tube abawe tukiriho
+138	Emer’ico nshikanye Mukunzi w’Imana
+139	Nd’uwawe Mwami, kuko numvise
+140	Mwami, ndakwimits’ Uganze
+141	Mwami, nguhay’ Ubugingo
+142	Untware Yesu, Mwami Yesu, ng’Unganze
+143	Ndagusavye wewe Yesu Mwami
+144	Yesu, ndagukunze rwose, ndakwihaye
+145	Ni vyiza kugukorera Mukiza wanje
+146	Rukundo rurut’ urundi
+147	Uburyo Yes’Ankunda burantangaza rwose
+148	Nta rukundo rusa n’urwa Yesu
+149	Non’Urukundo rwa Yesu Kristo ntirwodusiga
+150	Nnezerewe ko Yes’Ankunda
+151	Yes’Arush’ abandi bose kudukunda
+152	Nta wundi mwam’ ameze nka Yesu
+153	Yesu Wankunze, sinz’ icakunkundishije!
+154	Yesu, Wantangiy’ Ubugingo
+155	Ndatangara nshits’ imbere y’Umunyanazareti
+156	Ni jewe Yesu natanze Amaraso yanje
+157	Mukiz’ umpe kumenya
+158	Umvir’Ijwi rya Yesu, ni We Mukiza wawe
+159	Nakijijwe n’Urukundo!
+160	Ndamukunda
+161	Mp’Amakuru y’ivya Yesu
+162	Ngwin’ umbgir’ ivya Yesu, ingene Yankunze
+163	Urukundo rwiwe rwinshi Rwamuzanye mur’ iyi si
+164	Yesu Yavukiy’i Betelehemu
+165	Imana Yaduhay’ Umwana wayo
+166	Ngwino Soko y’umugisha
+167	Yesu ni We nihishamwo, Amberey’ Ubuhungiro
+168	Uwo Yes’Agumbiriye, nta bgoba yogira
+169	Mana, ba Sogokuruza Warabatabara
+170	Man’uduh’ umunezero
+171	Amahor’Atangwa na Yesu wacu ntagir’ akagero
+172	Ntangazwa n’Ubuntu bg’Imana butwikir’ ivyaha nakoze
+173	Imana ni yo Mwungere Andagiz’ Urukundo
+174	Umwami ni We Mwungere wanje
+175	Yesu n’Umwungere Wac’ Aduhoza
+176	Saba Yes’Agufashe, kand’ Aguhumurize
+177	Waman’ imigabo yo gutungana
+178	Muharur’Imigisha yanyu
+179	Iy’urushe, iy’uremerewe, bibgire Yesu
+180	Inzira zawe zose n’ibikubabaza
+181	Tujany’ inzir’ij’i Siyoni wa Murwa w’Imana mwiza
+182	Mur’iyo nzir’ igoy’ irtyo mbega murora hehe?
+183	Umuco wera, unsutsemwo n’umunezero
+184	Inzira y’Umusaraba niyo izonshikana mw’Ijuru gusa
+185	Abagendera mu Muco
+186	Izina ry’Umwami Yesu Rijan’ ah’uja hose
+187	Yesu, Yesu, Yesu
+188	Ndagomba gusa nawe Yesu Mutabazi
+189	Nzokwama nkwizigira, nzi k’Utazompemukira
+190	Tujanye na Yesu, tumwumviye cane
+191	Nkunda kwunguk’ ivya Yesu
+192	Ivy’Iman’ Igomba ni vyo ni vyo vyiza
+193	Kor’ ugifis’ uburyo, kora hakibona
+194	Abantu bose, mwumve nonaha
+195	Yesu yatwis’ amatara yiwe
+196	Ukwizera kwacu kurahamye pe
+197	Uwishinze ku Vyasezeranijwe n’Umukiza
+198	Umwami wacu Yesu ni We tanguriro ry’Ishengero
+199	Ni nd’azoherera ku Mwami wacu?
+200	Umwami Yasomboroje wa Mubi Satani
+201	Ni muvyuke kurwana mwa Ntore z’Umwami
+202	Ingo mwa bahizi mwe, Ja mu Rugamba
+203	Muze Ngabo za Yesu, muze mutabare
+204	Ury’ aje kudutabara ni Yesu wacu
+205	Uhor’ urwan’ Intambara nziza
+206	Ba nka Daniyeli
+207	Ugomb’ ubuhizi mu bimugoye
+208	Urugo rwacu n’Imana
+209	Yemw’ abari kuri Yesu
+210	Akaruru k’Intambara
+211	Har’Igihugu ciza cane
+212	Mw’Ijuru hariho; Isi nziza
+213	Har’iyindi s’irut’iyi cane
+214	Har’Umurwa mwiza
+215	Umurwa w’Umwami wacu twame tuwuhimbaza
+216	Mbeg’izina ryanje riri mu Gitabo?
+217	Mw’isi nd’umushitsi
+218	Kubana na Yesu! Ibihe vyose
+219	Ivyo nkora nkirih’aho bizorangirira
+220	Umusi nabonye Yesu mu Nyonga ziw’ icese
+221	Bana mw’Ijuru tuzohabg’ ibintu vyinshi
+222	Mbega tuzokoranira Ku ruzi ruvugwa rwiza
+223	Har’ijoro ryatowe, igihugu kiryamye
+224	Wasiz’ Icubahiro c’i Wawe hamwe Waza mw’isi Yesu
+225	Hamwe Yesu Yavuka
+226	Mukama wacu Yesu, tukwakire dute?
+227	Ku murwa wo kwa Dawidi umwami
+228	Dushim’ Umwami hamwe n’abungere
+229	Abantu baraririye intama mw’ijoro
+230	Umv’Intumwa zo mw’Ijuru
+231	Umwana yavukiye ku murwa wa Dawidi
+232	Mvuye mw’ijuru nonaha
+233	Yemwe bungere ba kera
+234	Yesu yaje ngaha kw’isi
+235	Ni muze Bakristo, munezerwe cane
+236	Yes’Umwami wacu hamwe yavuka
+237	Twebg’ abami batatu
+238	Kera can’ abungere
+239	Uko ba banyabgenge baravye ya nyenyeri
+240	Wa mwanya mu Getsemane sinzowibagira
+241	Mbeg’uriya yambaye
+242	Nzama nsaba Mpwemu Yera
+243	Umunyamibabaro n’izina rintangaza
+244	Harih’umusozi wa kure
+245	Mbonye wa Musaraba wa Yesu
+246	Gologota ku giti ni ho Yesu Yabambge
+247	Mukiza ku Musaraba
+248	Hafi y’Umusaraba har’Isoko nziza
+249	Nitegerej’ Umusaraba, umwe Yesu Yadupfirako
+250	Nirata wa Musaraba Yesu Yampfiriyeko
+251	Musi y’Umusaraba w’Umukiza Yesu
+252	Umukiza Yesu yaryamye mu mva
+253	Haleluya! Yesu Yarangij’ Intambara
+254	Yemwe, rab’ igitangaza
+255	Yesu Kristo Yarazutse
+256	Yesu Krist’ Arazutse
+257	Kristo Yarazutse, Urupfu rwaneshejwe!
+258	Krist’ubu ni Muzima
+259	Bari baje gukorana, nta ndobeke yarimwo
+260	Mpwemu w’ukur’ undongore
+261	Mpwemu we, Mufasha wacu
+262	Nyinjiramwo Mpwemu Yera
+263	Mpwemu w’Uhoraho, umpumekeremwo
+264	Mpwemu Yer’ udukunda
+265	Uzogeza ryari Yesu? Garuka Mukiza!
+266	Man’Ubgami bgawe buze mur’iyi si
+267	Tuzonezerwa cane Aho Yes’ Azozira
+268	Yes’ah’ Azogarukira
+269	Yesu ni Yaza tuzonezerwa
+270	Uwadupfiriye kera Araz’Ari mu bicu
+271	Aho tuzokwumv’ Inzamba z’Umwami wacu Yesu
+272	Umwam’Ageze kw’irembo
+273	Twikangure, dukor’ ibikorwa
+274	Wa zub’ utumwe kutunezereza
+275	Mutima wanj’ ikangure
+276	Man’ubu ngira nsinzire
+277	Mwam’ubugingo bgacu ni nk’umusi
+278	Mukiza, ni Wewe zuba ryanje
+279	Eh’umus’urakuze
+280	Imis’irahita vuba, irahita yiruka
+281	Twumvis’inkuru nziza
+282	Muze tubarondere, barajigirijwe
+283	Umve rya jwi ry’Umwungere
+284	Har’intam’ urwenda na cenda
+285	Kiz’abanyavyaha, tabar’abapfa
+286	Biba mu gitondo imbuto z’ineza
+287	Yes’Azoganz’ ibihugu vyose
+288	Urukundo rwa Yesu rwashitse kuri twebge
+289	Igitabo c’Imana ndagikunda
+290	Ngushimiye Mwami, Igitabo cawe
+291	Turakund’Ijambo Ryera
+292	Gumy’Igitabo gikuru c’Imana
+293	Mwam’ Ungaburir’ Ijambo ryawe
+294	Har’ah’abagore bazany’ abana babo
+295	Zakayo yari mugufiya
+296	Dushimish’ Imana Rurema
+297	Twebge tur’ abana gusa
+298	Yes’Agomba ko mb’umuco
+299	Amaboko yawe yagira neza
+300	Bana, ntimugire icaha mukora
+301	Nd’agatama ka Yesu
+302	Mukiza, Mwungere Mwiza
+303	Yesu, Mwungere wanje
+304	Har’Umukunzi w’abana
+305	Urya ni nd’ aryamitswe
+306	Uyu musi w’akanyamuneza
+307	Haleluya, haj’umusi mwiza
+308	Mwami Yesu, tuzanywe
+309	Inzu yawe Mana, N’iy’icubahiro
+310	Negerey’ ameza yawe
+311	Data, rab’Icibutso
+312	Mwami, mfis’ inzara
+313	Yes’Abe hamwe nawe hose
+314	Urukundo rw’Umukiza ni rwo rudukoranije
+315	Imana Yakoze neza ibidutangaza
+316	Mana Nyen’ ivyimburwa
+317	Haj’Umuntu ku ruzi
+318	Nabatijwe mw’Izina ryawe
+319	Mana tukuzaniye abana waduhaye
+320	Urakund’utwana twose
+321	Washingiriye Adamu
+322	Ah’umubano mwiza uba haba heza
+323	Uyu mugenzi wacu aravuye mu marushwa
+324	Nzoririmb’ ivy’Umukiza wanje
+325	Dutond’ Urugamba twese
+326	Yes’Aramfata, kand’ Akangumya
+327	Yes’Arampisha, Ahor’ Ampisha
+328	Yesu, nd’uwawe, nyakira, n’ivyanje mfise vyose
+329	Nezerwa cane wa si we
+330	Habay’umus’ Ijuru ryanezerwa
+331	Yes’aho yagir’asige Abigishwa biwe
+332	Kera Yes’Akiri mw’isi
+333	Iki gihe tumaranye turongowe na ya Bendera
+334	Amaraso yose y’intama n’impene
+335	Yesu Ntahinduka
+336	Ndaje Yesu, kuri Wewe
+337	Man’Ump’ umutima musha uzi kugushima
+338	Yemwe basoda ba Kristo
+339	Tugiy’i wacu mw’Ijuru
+340	Yesu Mucunguzi wanje ndaj’i waw’uyu musi
+341	Nta wuzigamwa mw’irinde nk’abana b’Imana Nzima
+342	Akanya kose Niw’Anzigama
+343	Kuri wa mus’ aho tuzozuka
+344	Uhimbazwe Yesu Kristo
+345	Enda ni muze twihererane
+346	Umuvugishwa Yesaya yeretsw’ ivyiza kera
+347	None Yes’uramugir’ute? Hitamwo bigishoboka
+348	Har’umwanya woha Yesu Yakwikorerey’ ivyaha?
+349	Nabony’Uburuhukiro muri Kristo Yesu
+350	Mp’Amavuta Yesu, mbone kwaka
+351	Ngo, mwes’ abanyotewe mu mitima
+352	Twobon’ ibizob’ imbere
+353	Hariho bamwe bazinjira Mw’Ijur’iyo
+354	Mbeg’Urukundo rw’Imana yacu

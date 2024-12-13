@@ -1,0 +1,327 @@
+1	Musifu Mungu kwa baraka
+2	Heshima na sifa kwake Baba
+3	Sifu Sifu Yesu Mwokozi wa watu
+4	Tunaimba sasa nyimbo kwake Yesu
+5	Mungu Mutakatifu, Mungu Mwenyezi
+6	Kuja, Mufalme wetu
+7	Tusifu Jina lake Yesu
+8	Mutazame utukufu wa Mwokozi
+9	Furaha kubwa kutangaza sifa ya Mwokozi
+10	Nitaimba na kusifu Yesu Kristo
+11	Ninafikili, Mungu Baba wangu
+12	Tunataka kupa kwako sifa
+13	Musingi wa Kanisa ni Kristo
+14	Sifa kwa Bwana
+15	Ninashangaa kabisa kwa Pendo la Bwana Yesu
+16	Niliposikia Yesu akiita nimwamini
+17	Vika Mwokozi Taji
+18	Tusifu Mungu wa Mbinguni
+19	Napenda kuimbia Bwana sifa
+20	Ee siku ya pumziko na siku ya furaha
+21	Hata juma hili, Bwana
+22	Ee Bwana, tunasifu Mapendo yako
+23	Damu ya Kristo imeniokoa
+24	Mwokozi Alitukufia
+25	Tunasifu Bwana Yesu kwa furaha
+26	Yesu, Mwanzo wa uzima
+27	Ninaheshimu Yesu Kristo
+28	Tunakushukuru, Mungu
+29	Ee Mungu Baba, ninakutukuza
+30	Abudu Mufalme
+31	Tumukaribie Mungu
+32	Kwa Mungu Mujuu uwe utukufu
+33	Yesu, unitazamishe Musalaba wako
+34	Tazama Yesu ni Kondoo
+35	Bwana, Mufalme wa Uzima
+36	Yesu Mwokozi wetu Mwema
+37	Pendo lilikusukuma, Yesu, kutukufilia
+38	Ee Salama ya milele
+39	Ee nini, Mungu wetu, ilikuvuta
+40	Ni tamu sana Jina la Mwokozi
+41	Yesu, Jina tamu sana
+42	Mwokozi wetu na Mupenzi
+43	Kwa kilima cha Kalvari
+44	Mutu wa masikitiko
+45	Kukufikili Wewe, Yesu
+46	Pendo lako, Bwana Yesu
+47	Najua Jina moja zuri
+48	Inatushinda kufahamu Mapendo
+49	Ee Baba, nitakuwa kama Yesu
+50	Napenda kusikia Jina la Bwana Yesu Kristo
+51	Jina la Pendo kubwa
+52	Ee Bwana, ulivumilia hukuma
+53	Tunapenda sas hii tamu
+54	Kwako pekee, Bwana
+55	Ninapoona Mwokozi wa watu
+56	Mufalme wa Utukufu
+57	Ninatimia ndani yako
+58	Ee Kristo, kwako
+59	Nafsi yangu, angalia Yesu
+60	Rehema ya Kuhani wetu
+61	Kwa Kondoo tunapumzika
+62	Ee Mungu ndiye nguvu yetu
+63	Ee Bwana Yesu, Mwumba wa dunia
+64	Kama ulivyoagiza, Bwana
+65	Kwa mukate na kwa mvinyo
+66	Tunazunguka meza na Yesu
+67	Tunazikwa kwa kaburi la Mwokozi
+68	Uliagiza, Yesu Bwana
+69	Tangaza neno hili dunia isikie Mwokozi
+70	Mwokozi Aliahidia wanafunzi wake
+71	Maneno ya Mungu ni taa
+72	Biblia inasimama sana
+73	Neno takatifu sana
+74	Ni Neema ya kunishangaza
+75	Mungu aliposifiwa Mbinguni
+76	Nina Neno toka Bwana
+77	Dunia ‘nalala kwa giza
+78	Mwokozi wangu
+79	Moyo uligeuzwa na vile maisha
+80	Ee siku ya kuokolewa
+81	Nilipofika kwa Musalaba
+82	Yesu kwa muji wa Betelehemu
+83	Nilizama kwa makosa
+84	Bwana Yesu amesema
+85	Waisraeli kule kwa Misri
+86	Neema ya Bwana ni kubwa sana
+87	Yote ninayo niliyapokea
+88	Neema, neno tamu
+89	Pendo la Mungu ni kubwa
+90	Imba Neno la Mungu tena
+91	Yesu Aliniokoa toka zambi
+92	Dunia ya zambi
+93	Rafiki, muyasikilize sasa
+94	Mwokozi Yesu Alikwenda
+95	Kwa Pendo lake kubwa Mwokozi
+96	Umesoma habari za Musalaba
+97	Bwana Yesu Alikuja
+98	Nimekombolewa kabisa
+99	Siku nyingi nilifanya zambi
+100	Pasha habari za Yesu
+101	Ni ahadi ya Mungu kuleta Wokovu
+102	Munganga amekuja hapa
+103	Siwezi mimi kufahamu sana
+104	Zamani muke mwenye ugonjwa
+105	Pendo la mushangao
+106	Sisi ni huru toka torati
+107	Sina akili nyingi kufahamu Neno
+108	Zahabu na feza haziniokoi
+109	Watu wa makosa
+110	Damu yako yenye baraka
+111	Naona sasa Damu ya Kondoo
+112	Unakubali kuacha makosa?
+113	Nini itanisafisha?
+114	Kweli maji hayawezi kusafisha roho
+115	Kisima chenye Damu safi
+116	Hata ninalia na machozi
+117	Mimi mwenye makosa nilikombolewa
+118	Mwamba uliopasuka
+119	Tumepata Neno zuri
+120	Mungu ni pahali pote
+121	Piga makengele ya furaha
+122	Umekuja kwake Yesu kusafishwa?
+123	Utazame Mwokozi Aliyekufa kwawe
+124	Kuja kwa Yesu na usikawe
+125	Yesu Mwokozi anaita watu
+126	Na hali yangu ninakuja
+127	Usikie Bwana Yesu
+128	Mwenye kusikia
+129	Hakose kesho nitaamini
+130	Usikie Yesu Kristo
+131	Ee kuja, mutu wa makosa
+132	Hatua moja inakutenga na Mwokozi
+133	Utafurahi kuwa na uhuru?
+134	Kama ukitaka kuwa mutu wake Yesu
+135	Mateso yanakusumbusha
+136	Nina Mwokozi Anayeniombea
+137	Tamu sana ni Maneno ya Habari njema
+138	Heri kabisa, Yesu ni wangu
+139	Moyo wangu una wimbo leo
+140	Ee nitakimbia kwa Mwamba
+141	Usimame kwa ahadi zake Kristo
+142	Usiogope mateso yako
+143	Ee Yehova, Mungu wangu
+144	Huzuni yangu ni kitu kweli
+145	Jina lake Yesu Kristo
+146	Yesu ni Rafiki yangu
+147	Baba wangu Mufalme
+148	Pahali pote ninapokwenda
+149	Hakuna rafiki kama Yesu
+150	Muchungaji Yesu
+151	Kwami Muchungaji ni Bwana Yesu
+152	Niwe karibu nawe, Ee Mungu wangu
+153	Najua Rafiki mwema
+154	Ninataka Bwana Yesu
+155	Nani anayeninyanyua?
+156	Musingi wa Nguvu ni Yesu Mwokozi
+157	Nina ushirika na furaha kubwa
+158	Usiache zambi kushinda rohoni
+159	Yesu unayenipenda
+160	Ee mara ngapi tunasumbuka
+161	Kati’ mikono yake Yesu Ananilinda
+162	Tukikwenda pamoja
+163	Yesu, Muchungaji wetu mwema
+164	Njia yote naongozwa
+165	Unachoka kwa matata na masikitiko?
+166	Jua la roho ni wewe
+167	Watu wanakuzarau
+168	Nikipata ulimwengu wote
+169	Nina Rafiki mwema naye Alinikufia
+170	Mapendo yake Mungu
+171	Ni kutamu sana kwangu kumutegemea Yesu
+172	Sina woga kwenda na Mwokozi Yesu
+173	Bwana Yesu, Uniongoze
+174	Hakika Yesu Mwamba nguvu
+175	Mapendezi ya dunia sitamani tena
+176	Ee, taraja yako ni wapi, ndugu
+177	Ninakuta Bwana Yesu Rafiki
+178	Navutwa kwake Yesu
+179	Ninataka kumufuata Yesu
+180	Ee ninataka kusikia
+181	Uchunge wakati kusema na Bwana
+182	Unitembeze, Bwana wangu
+183	Roho yangu inajaa na furaha
+184	Ninapenda kumusifu Bwana Yesu
+185	Kiongozi, Mwana wa Mungu
+186	Nisadiki Yesu Kristo
+187	Kama una mahitaji
+188	Yesu Mwokozi Alinikufia
+189	Ukichukuliwa na mashaka yako
+190	Wakati Salama inapojaza roho
+191	Mufalme wa Mapendo
+192	Ee kundi la Mungu
+193	Mwokozi Ananiongoza
+194	Mwokozi Aliniambia
+195	Ninasimama kwake Kristo
+196	Zamani niliishi kwa zambi
+197	Nikiona uzaifu
+198	Ee Mwokozi, Unilinde
+199	Napenda kutangaza habari za Mwokozi
+200	Watu wa Mungu
+201	Nitaka sana kusikia Neno yako
+202	Kutumika kazi kwa Mwokozi Yesu
+203	Simama kwa Mufalme
+204	Ee Bendera inawekwa kututangulia
+205	Chini ya Bendera yake Yesu Kristo
+206	Uwatafute wanaopotea
+207	Fanyia Mungu kazi
+208	Panda mbegu njema
+209	Ee askari, twende, vita tuipige
+210	Askari wahodari
+211	Toka giza watu wengi wanalia
+212	Askari wa Mwokozi
+213	Nani ni wa Yesu?
+214	Nikifika kwake Bwana
+215	Pendo la Baba wa Mbingu
+216	Ninasikia muchungaji
+217	Shamba la Mungu ni tayari
+218	Safari yangu huko
+219	Ee Bwana, niwe mufuata wa kweli
+220	Yesu, ninauchukua musalaba
+221	Yesu, unapita ndugu
+222	Fanya mapenzi yako
+223	Kitu kisiingie kutenga
+224	Yote kwa Mwokozi wangu
+225	Bwana, upokee maisha yangu
+226	Nilikubali kutoa uzima wangu kwawe
+227	Mimi wako, Bwana
+228	Unataka Salama na imani
+229	Ninakushukuru, Bwana
+230	Yesu, ninakutolea vitu vyangu
+231	Nimeahidi, Yesu, nitakutumikia
+232	Yesu, nivutwe karibu nawe
+233	Nasikia Bwana Yesu
+234	Pahali pa Salama tamu
+235	Yesu ni Rafiki yetu
+236	Mukate wa Uzima
+237	Zamani, Pentekote, Mungu
+238	Nakuhitaji, Yesu, Mwokozi
+239	Yesu, Mwenye Pendo kubwa
+240	Ninakuomba, Yesu Mupenzi
+241	Ee Yesu, nataka usafi kwa roho
+242	Mungu, umetuma kwetu Roho
+243	Sema na roho yangu
+244	Saa ya Maombi iko tamu
+245	Ukae nami, giza linafika
+246	Kutoka taabu ya dunia
+247	Mvua ya Mbingu inyeshe
+248	Mungu wetu Mwaminifu
+249	Omba kwa Mungu pekee
+250	Unipe usafi zaidi rohoni
+251	Bwana, fungua macho yangu
+252	Yesu Mwokozi
+253	Unachoka, una roho nzito?
+254	Sasa mangaribi
+255	Bwana, kwa usiku huu
+256	Siku baragumu yake Mungu itakapolia
+257	Siku nyingine taabu ‘takwisha
+258	Watu wa Kristo, angalieni
+259	Yesu atakapokuja tena
+260	Bonde la mauti halitakuwa
+261	Ninangoja asubui
+262	Bwana, ninakungojea
+263	Hakose leo tu, tutaona Yesu
+264	Yesu atatawala hapa
+265	Siku Mwana wake Mungu atakaporudi
+266	Wananiambia habari za Mbingu
+267	Kuna Muji muzuri Mbinguni
+268	Imba Pendo la Mwokozi
+269	Ninatazama Mbingu mbali
+270	Ee furaha kuonana na Mwokozi
+271	Siku zangu zitakapotimia
+272	Kuna Muji kule Mbingu
+273	Tutafufuka kusimama mbele yake
+274	Kuna Muji wa Furaha mbali
+275	Tuwaze Mungini wa Mbingu
+276	Jeshi kuu la Malaika waliimba
+277	Malaika za Mbinguni
+278	Ee muji wa Betelemu
+279	Tunafurahi leo
+280	Nyumbani mwa ngombe
+281	Furaha kubwa kwa dunia
+282	Kuna wimbo muzuri
+283	Kujeni kusifu na furaha
+284	Kwa usiku wa zamani
+285	Uliacha Mbinguni na Utukufu
+286	Kule muji wa Daudi
+287	Yesu Amefufuliwa
+288	Yesu Alipolala kati’ kaburi
+289	Mwokozi Anaishi
+290	Kristo Aliacha Utukufu
+291	Najua Yesu Anaishi
+292	Kwako Heshima, Kristo Mushindaji
+293	Rafiki wa watoto ni Kristo
+294	Yesu Anapenda kweli
+295	Ninafurahi sababu Mwokozi
+296	Yesu Anataka tungae
+297	Bwana Yesu Atakuja
+298	Weka makusudi mema
+299	Yesu Mwokozi nataka ningae
+300	Yesu ana Pendo kubwa
+301	Zamani Mwokozi aliwakaribisha
+302	Bwana, sasa uruhusu watu
+303	Mungu awe nanyi sikuzote
+304	Mumufanyie Bwana shangwe
+305	Nitasifu Mwokozi
+306	Asante, Ee Mungu
+307	Napenda kusikia Jina
+308	Sifurahi kwa mali ya dunia
+309	Hata tangu zamani
+310	Ninakuomba, Mungu Baba
+311	Utazame Bwana Yesu
+312	Ninakaribia sasa Musalaba wako
+313	Ninakusikia, Bwana
+314	Usimame na piga baragumu
+315	Nimepata Salama kutoka Mbinguni
+316	Ukae sikuzote kwake Yesu
+317	Ninakuomba, Yesu
+318	Nasikia, Bwana Yesu
+319	Ee ninakupenda, Mwokozi
+320	Maisha na mapendo yangu
+321	Ninakutolea, Bwana, roho
+322	Bwana Yesu Anaita watu wake
+323	Ee, Yesu atakuja tena
+324	Mateso mengi duniani
+325	Wachunga walilinda
+326	Wachunga walilinda kundi
+327	Siku mateso yatakapokwisha

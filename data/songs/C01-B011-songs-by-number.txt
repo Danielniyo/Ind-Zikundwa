@@ -1,0 +1,655 @@
+1	Qu’on batte des mains
+2	Peuples, venez
+3	Rendez à Dieu L’honneur suprême
+4	Il faut Grand Dieu
+5	Gloire à Dieu, notre Créateur
+6	Bénissons Dieu, mon âme
+7	À Celui qui nous a Sauvés
+8	La terre au Seigneur appartient
+9	Dieu, c’est dans ta Sion sainte
+10	L’Éternel seul est Seigneur
+11	Gloire, Gloire à l’Éternel
+12	Comme un cerf altéré brame
+13	Roi des rois, Éternel mon Dieu
+14	Dieu Fort et Grand
+15	Ô mon Dieu, mon Sauveur
+16	L’Éternel est mon Berger
+17	À Toi mon Dieu mon cœur monte
+18	Je lève les yeux
+19	Au fort de ma détresse
+20	Mon Dieu prête-moi l’oreille
+21	J’aime mon Dieu
+22	L’Éternel seul est ma Lumière
+23	Qui sous la garde du Grand Dieu
+24	Seigneur, Tu fus notre Refuge
+25	Que Dieu se montre seulement
+26	Éternel, Ta fidélité
+27	Heureux celui de qui Dieu
+28	Source de tous les biens
+29	Oui, je bénirai Dieu
+30	Chrétiens, peuple fidèle
+31	Ton Église triomphante
+32	Du Rocher de Jacob
+33	Chantons, chantons sans cesse
+34	Grand Dieu, nous te bénissons
+35	Grand Dieu, nous te louons
+36	Hosanna, béni soit
+37	Les cieux et la terre
+38	Je chanterai, Seigneur
+39	Est-il bien vrai, Seigneur
+40	Jésus, Jésus, Jésus
+41	Oui, pour Son peuple
+42	Seigneur, Grand Dieu
+43	Oui, je veux te bénir
+44	Ma richesse, ma gloire
+45	Quand le vol de la tempête.
+46	Par tous les Saints glorifiés
+47	A celui qui nous a lavés
+48	Que ne puis-je ô mon Dieu
+49	Christ est ressuscité
+50	Saint, Saint, Saint est l’Éternel
+51	Seigneur, que n’ai-je mille voix
+52	Toi qui disposes
+53	Vers toi monte notre hommage
+54	Que Ton fidèle Amour
+55	De Dieu l’Amour éternel
+56	Ô tendresse infinie
+57	Oui, ton Amour
+58	Tu m’as aimé, Seigneur
+59	Ô Seigneur, ô Sauveur
+60	Un nouveau combattant
+61	Ô quel bonheur de le connaître
+62	À l’Agneau sur Son Trône
+63	Amour Sublime
+64	Dans les cieux et sur la terre
+65	En Christ Seul est Mon espérance
+66	Dieu Lui-même, ô Mystère
+67	Jésus, au Nom Saint et doux
+68	Jésus-Christ est ma sagesse
+69	Jésus est notre Ami suprême
+70	Jésus, ô Nom qui surpasse
+71	la Croix reste debout
+72	Ah! Si ton Sang, si Ta mort, si Ta Vie
+73	Pour Toi Seul en qui j’espère
+74	Le Maître est Là qui t’appelle
+75	T’aimer, ô Sauveur charitable
+76	Quand le Sauveur naquit
+77	Jésus est au milieu de nous
+78	Quel Ami Fidèle et tendre
+79	Tant qu’il vit, tant qu’il règne
+80	Qui me relève dans mes chutes
+81	Voici Noël, ô douce nuit
+82	Brillante étoile du matin
+83	Sur ces époux, Père éternel
+84	Dans la nuit, voyez ces mages
+85	Dans le silence de la nuit
+86	Dans les champs le berger veille
+87	Ecoutez un saint cantique
+88	Il est né, le Roi du monde
+89	Il est un jour
+90	Jésus est né
+91	Jésus est né
+92	Ô poussière de la terre
+93	Salut, blanche étoile
+94	Terre, chante de joie
+95	C’est à la Croix
+96	Étoile d’or
+97	Ô qui voudra croire
+98	Ô Christ, quelle immense douleur
+99	Ô Jésus, ta Croix domine
+100	Chef couvert de blessures
+101	Agneau de Dieu, par tes langueurs
+102	Rédempteur Adorable
+103	Au combat de la vie
+104	Seigneur, dans ma souffrance
+105	Divin Sauveur
+106	Un regard sur ta Croix Sanglante
+107	Golgotha, mont de la Victoire
+108	Quand je contemple cette Croix
+109	Ô Saint-Esprit, descends
+110	Jésus, Jésus, mon Sauveur
+111	Viens, mon âme, et contemple
+112	Il est une verte colline
+113	Ô Christ, j’ai vu ton agonie
+114	Mortels, voulez-vous savoir
+115	Obscur et pauvre
+116	Sous ton voile d’ignominie
+117	Ecoutez le cri d’agonie
+118	À Toi la Gloire!
+119	Brisant ses liens funèbres
+120	Tu dors dans ce tombeau
+121	Dans le morne et froid tombeau
+122	Dépouille enfin tes chaînes
+123	Jésus vit, voici ton Roi
+124	Le Sauveur est ressuscité
+125	Jésus sort de la tombe
+126	Non, rien en ma personne
+127	Mon Rédempteur est Vivant
+128	Ô cieux, unissez-vous
+129	Nous attendons le Sauveur glorieux
+130	Demeure par Ta grâce
+131	Oh! Quand sera-ce, Fils de Dieu
+132	Ô mon âme captive
+133	Sur les collines éternelles
+134	La moisson du monde est si grande
+135	Dans Sa gloire, notre Maître
+136	Tenons nos lampes prêtes
+137	Viens, ô Jésus, Ton Église t’appelle
+138	Voyez le Christ sur la nue
+139	Descends, Esprit du Dieu Vivant
+140	Esprit divin, Esprit de flamme
+141	Esprit Saint, Dieu Puissant
+142	En expirant, le Rédempteur
+143	Rends-toi Maître de nos âmes
+144	Viens, ô Créateur de nos âmes
+145	Comme une terre altérée
+146	La Parole du Seigneur
+147	Divine Parole
+148	Romps-nous Le pain de Vie
+149	Ta Gloire, ô notre Dieu
+150	Tandis que dans le Ciel
+151	Pour triompher dans les combats
+152	Ta Parole est un beau Jardin
+153	Ô Mon Sauveur, ô Source intarissable
+154	Ta Parole Seigneur
+155	Ô Dieu dont la tendresse
+156	Ah! Qu’il est beau de voir des frères
+157	L’Amour de Jésus-Christ nous presse
+158	Il est une race immortelle
+159	J’ai faim, j’ai soif, Jésus
+160	Jésus, fils unique du Père
+161	Agneau, Victime expiatoire
+162	En avant! En avant!
+163	Serrons nos rangs
+164	Salut, montagnes bien-aimées
+165	Tu nous aimes, Seigneur
+166	Béni soit le Lien
+167	Voici de tes enfants
+168	Jour du Seigneur
+169	Qu’aujourd’hui toute la terre
+170	Ta Parole est La richesse
+171	Unissons nos cœurs et nos voix
+172	Peuple Chrétien
+173	Il vient, Il vient!
+174	Que La grâce de notre Seigneur
+175	Moment si doux de La prière
+176	Dieu, mon rocher
+177	Le temps est court
+178	Oh! Qui soutiendra ma faiblesse
+179	Je m’approche de Toi
+180	Jésus, Tu passais naguère
+181	Mon Dieu, Mon Père
+182	Mon Dieu, plus près de Toi
+183	Nous t’adorons
+184	J’ai soif de Ta présence
+185	Jéhovah, vers Toi je crie
+186	Ô Dieu de Vérité
+187	Par la flamme et la nuée
+188	Parle, parle Seigneur
+189	Reste avec moi
+190	Reste avec nous
+191	Daigne bénir, Fidèle et tendre Père
+192	Saint des saints
+193	Ô Dieu! Toute ma prière
+194	Seigneur, Tu donnes Ta grâce
+195	Souvent, Seigneur, en Sa détresse
+196	C’est Toi, Jésus
+197	Dans l’abîme de misère
+198	Le cri de mon âme
+199	Dieu de grâce
+200	Mon Dieu, Quelle guerre cruelle
+201	Plus haut, plus haut!
+202	Travaux, douleurs
+203	Je cherchais à travers mes larmes
+204	Seigneur, attire
+205	Viens, mon âme Te réclame
+206	Tiens dans Ta main
+207	Entends-tu, Jésus t’appelle.
+208	Lorsque devant l’Agneau.
+209	Demain, peut-être, je te croirai
+210	Gémissant sous l’esclavage.
+211	Dans ma misère et mon péché
+212	J’ai trouvé la paix profonde.
+213	Bientôt le Seigneur va venir.
+214	Pourquoi donc attendre
+215	Viens, âme perdue.
+216	Viens à Jésus, Il t’appelle
+217	J’apporterai ma détresse à Jésus
+218	Sans un Dieu Puissant pour Père
+219	Nous voguons vers un beau rivage
+220	Viens à la Croix, âme perdue
+221	Oh! Viens à Moi
+222	On frappe! On frappe! Entends-tu?
+223	Quelqu’un frappe à votre porte
+224	Jésus, mis à mort pour moi
+225	Ô toi, qui souffres solitaire.
+226	Bien loin de Toi mon Père
+227	Où cherchez-vous le bonheur.
+228	Jésus t’appelle, Oh! Viens et vois.
+229	Voudrais-tu goûter le parfait bonheur.
+230	Où trouver une retraite
+231	Aux jours d’angoisse et de souffrance
+232	Ô vous qui n’avez pas la paix.
+233	Venez, cœurs souffrants et meurtris.
+234	Pécheur, qui t’appelle ainsi?
+235	Par ce Chemin solitaire
+236	Place pour toi pécheur
+237	Publiez bien haut la grande nouvelle.
+238	Possèdes-tu, pauvre pécheur.
+239	Ô Christ, éternel Rocher
+240	Que devient mon enfant ce soir?
+241	Sans fruit! Sans fruit!
+242	Quel est ce passant, dites-moi
+243	Ecoutez! Jésus Lui-même
+244	Joie au Ciel
+245	Chœur des Bienheureux.
+246	Pécheur, Je voudrais te guérir
+247	Si vous saviez Quel Sauveur je possède
+248	Apporte sur le Calvaire
+249	Regarde, âme angoissée
+250	Regarde à Jésus, c’est la Vie
+251	Souviens-toi du Calvaire.
+252	Viens au Père qui t’appelle
+253	Venez à Celui qui pardonne
+254	Viens ô cœur désolé
+255	Oh! Croyez que Dieu vous donne
+256	Aujourd’hui Tu m’appelles
+257	Le Prince de la Vie.
+258	Tel que je suis, sans rien à moi
+259	Miséricorde insondable
+260	Tel que je suis, pécheur rebelle
+261	Agneau de Dieu, Messager de La grâce
+262	Seigneur, je n’ai rien à t’offrir
+263	Redites-moi l’histoire
+264	Grâce, douce Parole
+265	Seigneur, que la terre entière.
+266	Parais, Étoile du matin
+267	Sors du sommeil
+268	A travers La porte.
+269	Je l’ai trouvé
+270	Je ne sais pourquoi dans Sa grâce
+271	Jésus, du fardeau de la loi.
+272	Je suis à Toi
+273	Je suis scellé pour la gloire
+274	Ô honte, ô mémoire cruelle
+275	Il m’a Sauvé
+276	Jésus, par ton Sang Précieux
+277	Ô Fils de Dieu, quand ta Lumière
+278	Pour tous la source est ouverte
+279	Source féconde, Salut du monde
+280	Lorsqu’à Jésus...
+281	Béni soit le jour..
+282	Grand Dieu, Ta souveraine grâce
+283	L’Éternel est ma part
+284	C’en est fait, ô Jésus
+285	Salut, Salut pour tous
+286	Jésus aujourd’hui m’appelle
+287	À Toi mon Dieu, je m’abandonne.
+288	Prends ma vie, elle doit être
+289	C’est mon Joyeux service
+290	Mon corps, mon cœur, mon âme.
+291	À Toi mon Dieu, je me donne
+292	Entre tes mains j’abandonne
+293	Au pied de ta Croix Sanglante.
+294	Que tout genou fléchisse
+295	A Jésus je m’abandonne
+296	Lève-toi, vaillante armée
+297	J’ai tout quitté pour Te suivre
+298	Livre saint, céleste Livre
+299	Le Silence et le mystère
+300	Nous sommes au Seigneur
+301	Doux Agneau sans tache
+302	Jusqu’à la mort
+303	Seigneur, Ta grâce m’appelle
+304	Ô jour béni
+305	Toujours Ta divine présence.
+306	Ô Fils de Dieu, mon Sauveur Bien-aimé
+307	Qu’il fait bon à Ton service.
+308	Rends-moi captif, Seigneur
+309	Abandonne ta vie
+310	Je veux t’aimer
+311	Ah! Que je ne sois pas
+312	Ah! Donne à mon âme
+313	A tes pieds, ô Divin Maître
+314	Nous mourrons, mais
+315	C’est dans la paix que tu dois vivre
+316	Seigneur, du sein de la poussière
+317	Jésus, ta Sainte présence.
+318	Seigneur, ce que je réclame
+319	Seul refuge de mon âme
+320	Mon Sauveur, je voudrais être
+321	Oh! Que ton joug est facile
+322	Jésus, à Toi j’appartiens.
+323	Seigneur, à Ton regard de flamme
+324	Amour qui m’entraîne
+325	Ô Jésus, Maître doux et tendre
+326	Ô mon Sauveur.
+327	Mon Dieu, que jamais je n’envie
+328	Pleine des plus beaux dons
+329	Fidèle, ne crains point
+330	Rien ne peut de nos cœurs
+331	Roc Séculaire
+332	J’ai trouvé, j’ai trouvé la voie
+333	Avec allégresse
+334	Mon cœur te réclame
+335	Avançons-Nous joyeux
+336	Mon cœur joyeux
+337	Christ nous précédant
+338	Dans le désert
+339	Je dois voyager au monde
+340	Sans attendre
+341	Suivez, suivez l’Agneau
+342	Veille au matin
+343	Lutte quand l’Esprit de grâce
+344	Voyez, voyez, les voici
+345	Dès que l’aube dépose
+346	Ecoutez l’appel du Berger.
+347	La voix de Christ nous appelle
+348	Soleil de justice
+349	Semons dès que brille l’aurore.
+350	Travaillons et luttons
+351	Bénis, Seigneur, Tes messagers
+352	Torrents d’Amour et de Grâce
+353	Passez jusques à nous.
+354	Seigneur Jésus
+355	Saints Messagers
+356	Honneur aux vaillants
+357	Qu’ils sont beaux sur les montagnes
+358	Debout, Soldats du Christ
+359	Debout, sainte cohorte
+360	Debout, sainte cohorte
+361	La Foi..
+362	Levons-nous frères
+363	Le Fils de Dieu déploie au vent
+364	Sentinelle vigilante
+365	Le signal de la Victoire
+366	Voyez l’étendard céleste
+367	Il est une sainte guerre
+368	Vous qui gardez les murs
+369	À moi les cœurs braves!
+370	À de nouveaux combats
+371	Soldats du Christ, Au combat!
+372	Triomphons, chantons d’allégresse
+373	Mort avec Christ.
+374	Plus que vainqueurs!
+375	C’est un rempart que notre Dieu
+376	Je la connais, cette joie
+377	À celui qui sera vainqueur
+378	La croix que Dieu me donne
+379	Maître, entends-tu la tempête
+380	Jésus, Ami de mon âme
+381	Plus le mal est pressant
+382	Quand ton peuple au désert
+383	Lève les yeux vers Christ
+384	C’est moi, c’est moi qui vous console
+385	Une nacelle en silence
+386	Trop souvent je murmure
+387	Ne crains rien, je t’aime
+388	Quand le Ciel devient menaçant
+389	Viens, âme qui pleure
+390	Ne te désole point, Sion
+391	Ô Seigneur éternel
+392	Celui qui met en Jésus
+393	Douce clarté
+394	Comme un fleuve immense
+395	Paix, paix parfaite
+396	Il me conduit
+397	Il est un roc séculaire
+398	Jamais Dieu ne délaisse
+399	Oh! Qu’il est doux d’aimer Dieu
+400	Je vis d’espérance
+401	Saisis ma main craintive
+402	Le Tout-Puissant est mon Berger
+403	De quoi t’alarmes-tu?
+404	Oui, selon Ta promesse
+405	Pleine paix
+406	C’est à l’ombre que tes ailes
+407	Au Ciel brille une étoile
+408	Ô Jésus, je me repose
+409	Sur toi, je me repose
+410	Sur Toi, Sauveur
+411	Quel repos céleste
+412	Toi dont l’âme est tourmentée
+413	T’aimer Jésus, te connaître
+414	Rien ne trouble le silence
+415	Qu’elle est douce
+416	Déployons nos ailes
+417	L’aube naît, sourit et passe
+418	Contempler mon Dieu
+419	Frère, quand ton âme est lassée
+420	Dans le pays de La gloire éternelle
+421	Quand finira le Combat
+422	Etranger sur la terre
+423	Non, ce monde n’est pas
+424	Je ne sais pas le jour
+425	Pour tous les saints
+426	Pour toujours avec Lui
+427	Matelots en voyage
+428	Il est un Pays bienheureux
+429	Ô toi qui fus fondée
+430	Sur Toi pierre Angulaire
+431	Plus de pleurs
+432	Voir mon Sauveur
+433	Pour moi chrétien
+434	Oh! Quel beau jour
+435	Au Ciel est La maison
+436	Connais-tu cette Cité?
+437	Vers le Ciel, vers le ciel
+438	Seigneur, dirige tous mes pas
+439	Seigneur, donne-moi des ailes
+440	Sainte Sion, ô Patrie éternelle
+441	Il est là-haut!
+442	Ah! Pourquoi l’amitié
+443	Consolez vos cœurs qui pleurent
+444	Entonnons un saint cantique
+445	Non, ce n’est pas mourir
+446	Qui sont ces gens
+447	Dors, bien-aimé
+448	Éternel, ô mon Dieu
+449	Dès le matin, Seigneur
+450	Mon cœur te cherche
+451	Ô mon Dieu, je cherche Ta face
+452	J’aime du soir
+453	Vers Toi, Seigneur
+454	Frères, prions!
+455	Le temps s’enfuit
+456	Dieu soit avec toi
+457	Jésus sois avec vous
+458	Seigneur Jésus, céleste Frère
+459	Comme un phare
+460	Dans le drapeau
+461	Du Christ Sauveur
+462	Entendez-vous l’appel du Maître
+463	La lutte suprême
+464	Marchons avec joie
+465	Venez au Sauveur qui vous aime
+466	Chantons du Seigneur la bonté
+467	David n’avait rien que sa fronde
+468	Bon Sauveur, Berger Fidèle
+469	Il est un Ami Fidèle
+470	Qui dit au soleil
+471	Il est un brillant paradis
+472	Jésus me demande d’être
+473	Chaque jour de ma vie
+474	Je suis la Lumière
+475	Tout joyeux, bénissons le Seigneur
+476	Je suis petit, mais..
+477	Je sais bien qui nous aima tant
+478	L’ombre descend de la colline
+479	Deux mains pour servir
+480	Le Seigneur Jésus
+481	Nul enfant n’est trop petit
+482	Oh! Que Ta main paternelle
+483	On raconte qu’aux jours bien éloignés
+484	Petits enfants, quelqu’un nous aime
+485	Pour chanter les louanges
+486	La bande joyeuse
+487	Quel bonheur quand faisant trêve
+488	Une belle Patrie
+489	Le vieux Noël est revenu
+490	Quand dans la nuit
+491	Sur la paille fraîche
+492	Noël, Jésus est né
+493	Au tribunal Jésus se tient
+494	Fils de Marie
+495	J’ai découvert dans la vallée
+496	Jésus, mon Sauveur, pourquoi
+497	La nuit couvre de ses voiles
+498	L’heureux troupeau
+499	Quand j’atteindrai le terme
+500	Tous unis sous la bannière
+501	Quand je vois mon Sauveur
+502	Oh! Quel parfait bonheur
+503	Jésus, Jésus, viens à moi
+504	Le Ciel était voilé
+505	Un jour comme un fil qui se brise
+506	La mort n’est plus
+507	Le Fils de Dieu vint sur la terre
+508	Ecoutez La bonne nouvelle
+509	Est-il bien vrai que tu pardonnes
+510	Des pays de l’aurore
+511	Gloire au Seigneur
+512	Dieu vit toujours!
+513	Ici-bas ma carrière
+514	Ils ne sont plus
+515	Proclamez par tout le monde
+516	Pécheurs, voyez l’Agneau du Père
+517	C’est Golgotha, c’est le calvaire
+518	Ô Toi qui donnes la Vie
+519	Sois fidèle, tu seras fort
+520	Dieu règne en juste Roi
+521	Réveille-toi, peuple fidèle
+522	Entonnons un nouveau cantique
+523	Vous, saints ministres
+524	Miséricorde et grâce, ô Dieu
+525	Vous qui sur la terre habitez
+526	Anges du Très-Haut
+527	Trois fois Saint Jéhovah!
+528	Gloire soit au Père, au Fils
+529	Loué soit Dieu, le Seigneur
+530	C’est Toi Jésus, pain de Vie
+531	Ô Toi dont les bienfaits
+532	Ô Jésus! Soleil de l’âme
+533	Le Nom de Jésus est si doux!
+534	Oh! Que toute la terre entonne
+535	Mon Sauveur m’aime
+536	Pour toi qu’un tourment oppresse
+537	Rien n’est comparable
+538	Bienheureux qui t’aime
+539	De Jésus la souvenance
+540	Oh! Viens bientôt, Emmanuel
+541	Humble et doux Jésus
+542	Laisse-moi désormais
+543	Béni soit à jamais
+544	Mon cœur, rempli des biens
+545	Le peuple qui marchait
+546	Dieu, le tout-Puissant Créateur
+547	Voici l’Enfant nous est né
+548	Ô peuple fidèle
+549	Devant ta crèche, tu me vois
+550	Ton Roi vient, pauvre
+551	Sur la Croix où tu meurs
+552	Quelle douleur
+553	Je t’ai suivi sur le Calvaire
+554	Pour quel péché, Jésus
+555	Dans Sa divine humanité
+556	Frères, glorifions
+557	Le Sauveur est Ressuscité
+558	Jésus seul est notre vie
+559	Ouvrez-vous, portes du tombeau!
+560	Du Lieu très Saint le Christ
+561	Jésus, Ton règne sans pareil
+562	Ô Dieu des grâces éternelles!
+563	Viens, ô Jésus Régner…
+564	Esprit de Dieu, rends-moi
+565	Ô Dieu! Ta loi est sainte
+566	Sur ton Église universelle
+567	Ô Jésus, tu nous appelles
+568	Ô Seigneur, bénis la Parole
+569	Céleste voix qui nous convies
+570	Pour t’invoquer, ô Seigneur!
+571	Chantons avec reconnaissance
+572	Ô Jésus, Prince généreux
+573	Le Seigneur nous bénisse
+574	Je viens, Seigneur, à ce baptême
+575	Au sortir de Ton sanctuaire
+576	Le Seigneur s’incline
+577	Une bonne nouvelle
+578	Mon âme en silence
+579	Vous tous dont l’âme
+580	Venez, car Jésus est la Vie!
+581	De la Croix, La grâce coule
+582	Viens à Jésus, toi dont l’âme
+583	Pauvre pécheur, Jésus t’appelle
+584	Venez au Prince de la Vie
+585	Reviens à ton Père
+586	Précieux Jésus, je t’aime!
+587	Vers toi s’élève mon âme
+588	Source pure, intarissable
+589	Ah! Laissez-moi, terrestres joies!
+590	Seigneur, aie pitié de nous!
+591	Seigneur, mon Dieu, dans mon âme
+592	Je veux répondre, ô Dieu!
+593	Toi qui sur le bois infâme
+594	Oh! Qu’heureux est celui
+595	Si tu veux avoir la Vie
+596	Non, nous n’offrirons point
+597	Seigneur, dirige et sanctifie
+598	La voix du Seigneur m’appelle
+599	J’entends ta douce voix
+600	Ma vie enfin je te donne
+601	Quand ma route est obscure
+602	D’un saint désir emplis mon âme
+603	Mon Jésus, je t’aime
+604	À mon Dieu j’abandonne
+605	Dans les jours où tout est joie
+606	Tendre Sauveur, je viens à Toi
+607	La parfaite Victoire
+608	Chaque matin je répète
+609	Veux-tu briser du péché le pouvoir?
+610	Il faut pour te suivre
+611	Viens m’apprendre à t’aimer
+612	Quoi! Le Sang de l’Agneau
+613	Oh! Pendant que pour Lui
+614	Jésus te confie
+615	Semons dès l’aurore
+616	Entends-tu l’appel du Maître?
+617	Sur le Congo solitaire
+618	Ecoutez, écoutez
+619	C’est trop chanter la paix
+620	Non point à nous, Seigneur
+621	Ici-bas, où le mal abonde.
+622	Ô chrétien voyageur!
+623	Dieu tout-Puissant
+624	Notre barque est en danger
+625	Mon Dieu, j’espère en Toi
+626	Flots mugissants, flots en furie
+627	Par Toi, Jésus, la joie abonde
+628	Contre les affres de la mort
+629	C’est là-haut qu’est ma Patrie
+630	L’horizon se colore
+631	De Canaan quand verrons-nous?
+632	Ô Dieu, que cette année
+633	Quel bonheur d’être en famille
+634	Ô Toi qui t’es donné
+635	Sur nos monts, quand le soleil
+636	Seigneur, Dieu tout-Puissant
+637	Jeunesse ardente et généreuse
+638	Ô Dieu! Nous le plaçons
+639	C’est vers la cime
+640	Mon beau sapin
+641	Venez voir la crèche
+642	Un Ange sur la nue
+643	Sûr de la Victoire
+644	Dans mon âme un beau Soleil brille
+645	Si le bruit trouble la rue
+646	Toujours joyeux!
+647	Mon enfant, redoute
+648	Voici venir l’orage
+649	Servons tous, dès notre enfance
+650	Il naît; et dans les cieux
+651	Je voudrais vous dire à genoux
+652	Ô Nom Divin, Nom Rédempteur
+653	Qu’elle est pure et belle
+654	C’est un rempart que notre Dieu
+655	Mon cœur voudrait t’aimer
