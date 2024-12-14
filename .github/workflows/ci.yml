@@ -1,0 +1,38 @@
+name: Node.js CI
+
+# Déclenchement du workflow sur certains événements
+on:
+  push:
+    branches:
+      - main # Le workflow s'exécute sur les commits de la branche "main"
+  pull_request:
+    branches:
+      - main # Le workflow s'exécute pour les pull requests vers la branche "main"
+
+# Définition des jobs
+jobs:
+  build:
+    runs-on: ubuntu-latest # Spécifie que le job sera exécuté sur un environnement Ubuntu
+
+    steps:
+      # Étape 1 : Cloner le dépôt GitHub
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Étape 2 : Configurer Node.js et npm
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18' # Choisissez la version de Node.js (ajustez si nécessaire)
+
+      # Étape 3 : Installer les dépendances npm
+      - name: Install dependencies
+        run: npm install
+
+      # Étape 4 : Exécuter une commande npm (tests, build, etc.)
+      - name: Run tests
+        run: npm test # Remplacez par la commande que vous voulez exécuter, par exemple npm run build
+
+      # Étape 5 : Générer un build (si nécessaire)
+      - name: Build project
+        run: npm run build # Supprimez cette étape si vous n'avez pas de processus de build
