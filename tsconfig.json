@@ -4,5 +4,10 @@
         "resolveJsonModule": true,
         "allowSyntheticDefaultImports": true,
         "skipLibCheck": true
+        "baseUrl": "./src",
+        "paths": {
+            "$lib/*": ["lib/*"]
     }
+  }
 }
+{
